@@ -2,6 +2,6 @@
 
 - WhatsappWeb clone using
 
-# React
-# Typescript
-# Styled Components
+* React
+* Typescript
+* Styled Components
